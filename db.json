@@ -1,0 +1,45 @@
+{
+  "Gallery": [
+    {
+      "id": "6fc9",
+      "project": "BPCL-PDPP",
+      "ImageUrl": "https://www.psuconnect.in/sdsdsd/BPCL18.jpg",
+      "year": "2013-2019"
+    },
+    {
+      "id": "d533",
+      "project": "HPCL",
+      "ImageUrl": "https://cdn.dnaindia.com/sites/default/files/styles/full/public/2018/09/05/727133-hpcl-refinery-090518.jpg",
+      "year": "2011-2015"
+    },
+    {
+      "id": "3fb2",
+      "project": "Mumbai Bpcl",
+      "ImageUrl": "https://www.psuconnect.in/sdsdsd/petroleum_refinery.jpg",
+      "year": "2023"
+    },
+    {
+      "id": "c9f4",
+      "project": "Kochin Shipyard New Dry Dock Project",
+      "ImageUrl": "https://bl-i.thgim.com/public/migration_catalog/article22738928.ece/alternates/LANDSCAPE_1200/Cochin%20Shipyard",
+      "year": "2015-2022"
+    }
+  ],
+  "Enquiry": [
+    {
+      "id": "8334",
+      "Name": "James John",
+      "Email": "jamesjhn19@gmail.com",
+      "phone": "09048739559",
+      "Enquiry": "any job vaccancy?"
+    },
+    {
+      "id": "b60d",
+      "Name": "Enruque",
+      "Email": "Enrique@zohomail.com",
+      "phone": "+91 9875468526",
+      "Enquiry": "Whats Your upcomming projects?"
+    }
+  ],
+  "history": []
+}
